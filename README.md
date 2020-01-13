@@ -1,2 +1,1 @@
-# projectb
-Project for training on git
+# projectb's README
